@@ -11,5 +11,11 @@ public class HelloGit {
 		System.out.println("----------");
 		System.out.println("xxxxxxxxxx");
 		System.out.println("oooooooooo");
+		
+		methodA();
+	}
+	
+	public static void methodA() {
+		System.out.println("methodA");
 	}
 }
