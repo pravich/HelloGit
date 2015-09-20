@@ -16,6 +16,6 @@ public class HelloGit {
 	}
 	
 	public static void methodA() {
-		System.out.println("methodA");
+		System.out.println("MBP:methodA");
 	}
 }
